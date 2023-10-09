@@ -217,10 +217,10 @@ def questao3():
 
 
 ##################questão 1##################
-#resolved_rate_control_2r()
+resolved_rate_control_2r()
 
 ##################questão 2##################
-#resolved_rate_control_3r()
+resolved_rate_control_3r()
 
 ##################questão 3##################
 questao3()
